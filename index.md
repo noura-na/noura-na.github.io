@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+A data and machine learnring platform engineer who is passionate about building scalable machine learning systems.
+[Linkedin](https://www.linkedin.com/in/nouraabdelhafez/).
 
 There should be whitespace between paragraphs.
 
